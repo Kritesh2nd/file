@@ -155,6 +155,13 @@
 .opa0 {opacity: 0;}
 .txt {text-decoration: none;color:#000;}
 .cup {cursor: pointer;}
+.tac{text-align: center;}
+.tar{text-align: right;}
+.tal{text-align: left;}
+.ova{overflow: auto;}
+.ovh{overflow: hidden;}
+.ovs{overflow: scroll;}
+.ovv{overflow: visible;}
 :root {
   --ff1: 'Helvetica', sans-serif;
   --ff2: 'Times New Roman', sans-serif;
