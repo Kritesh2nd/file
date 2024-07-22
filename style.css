@@ -15,6 +15,7 @@
 *{box-sizing: border-box;margin: 0;padding: 0;font-family:'Roboto', sans-serif}
 *:focus{outline: none;}
 .mainbody {height: 5000px;width: 100%;}
+.bornone {border: none;}
 .borx {border: 1px solid #000;}
 .borx1 {border: 1px solid #333;}
 .borx2 {border: 1px solid #666;}
@@ -28,6 +29,7 @@
 .borc {border: 1px solid #0ff;}
 .borw {border: 1px solid #fff;}
 
+.outnone {outline: none;}
 .outx {outline: 1px solid #000;}
 .outx1 {outline: 1px solid #333;}
 .outx2 {outline: 1px solid #666;}
